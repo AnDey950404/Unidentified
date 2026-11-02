@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Plugins/Marketplace/MetaHumanBodyTracker/Content/Models/Offline/ViTPose.uasset
+
+# W2W: scene from word2world
+Content/W2W/*
+!Content/W2W/.gitkeep
